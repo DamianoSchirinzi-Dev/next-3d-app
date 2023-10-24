@@ -1,0 +1,14 @@
+.scene{
+    width:100vw;
+    height:100vh;
+}
+
+.canvas{
+    background: #000;
+}
+
+.main_header{
+    text-align: center;
+    font-size: 6vh;
+    font-weight: 500;
+}
